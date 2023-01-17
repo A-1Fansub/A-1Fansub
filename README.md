@@ -2,7 +2,7 @@
 
 Fansub apa adanya yang berusaha menyediakan rilisan semaksimal mungkin walau tidak konsisten. Sebab tidak konsisten, kami pun kesusahan untuk maju. Karenanya, bantu kami dengan membagikan garapan fansub ini.
 
-Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan untuk melaporkan masalah, kritik serta saran ke [Peladen Discord](https://discord.gg/8QeuePwYgV){:target="_blank"} atau [Halaman Facebook](https://fb.me/a1fansub){:target="_blank"}.
+Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan untuk melaporkan masalah, kritik serta saran ke [Peladen Discord](https://discord.gg/8QeuePwYgV) atau [Halaman Facebook](https://fb.me/a1fansub).
 
 ### Rilisan:
 
@@ -33,10 +33,10 @@ A: Sekali lagi, cukup bagikan garapan fansub ini, bantu kami :d
 
 ### Pranala:
 
-- [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225){:target="_blank"}
-- [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
-- [Facebook](https://fb.me/a1fansub){:target="_blank"}
-- [Index](https://proyek.a-1ddl.workers.dev/0:/){:target="_blank"}
-- [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-translation){:target="_blank"}
-- [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub){:target="_blank"}
-- [Telegram](https://a1fansub.t.me){:target="_blank"}
+- [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225)
+- [Discord](https://discord.gg/8QeuePwYgV)
+- [Facebook](https://fb.me/a1fansub)
+- [Index](https://proyek.a-1ddl.workers.dev/0:/)
+- [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-translation)
+- [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub)
+- [Telegram](https://a1fansub.t.me)
