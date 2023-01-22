@@ -37,6 +37,6 @@ A: Sekali lagi, cukup bagikan garapan fansub ini, bantu kami :d
 - [Discord](https://discord.gg/8QeuePwYgV)
 - [Facebook](https://fb.me/a1fansub)
 - [Index](https://proyek.a-1ddl.workers.dev/0:/)
-- [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-translation)
+- [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-fansub-manga-division)
 - [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub)
 - [Telegram](https://a1fansub.t.me)
