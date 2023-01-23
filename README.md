@@ -1,10 +1,3 @@
----
-layout: page
-title: Tentang
----
-
-Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021**.
-
 ### A-1 Fansub?
 
 Fansub apa adanya yang berusaha menyediakan rilisan semaksimal mungkin. Walau sering telat, tapi itu sebanding dengan kualitas yang kami berikan. Fansub baru netas seperti kami tentunya belum terlalu dikenal, maka dari itu bantu bagikan garapan kami, dengan itu kamu sudah membantu perkembangan fansub ini.
