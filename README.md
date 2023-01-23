@@ -2,7 +2,7 @@
 
 Fansub apa adanya yang berusaha menyediakan rilisan semaksimal mungkin. Walau sering telat, tapi itu sebanding dengan kualitas yang kami berikan. Fansub baru netas seperti kami tentunya belum terlalu dikenal, maka dari itu bantu bagikan garapan kami, dengan itu kamu sudah membantu perkembangan fansub ini.
 
-Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan untuk melaporkan masalah, kritik serta saran ke [Peladen Discord](https://discord.gg/8QeuePwYgV){:target="_blank"} atau [Halaman Facebook](https://fb.me/a1fansub){:target="_blank"}.
+Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan untuk melaporkan masalah, kritik serta saran ke [Peladen Discord](https://discord.gg/8QeuePwYgV) atau [Halaman Facebook](https://fb.me/a1fansub).
 
 ### Rilisan:
 
@@ -33,12 +33,12 @@ A: Sekali lagi, bantu kenalkan kami dengan cara membagikan rilisan kami, itu sud
 
 ### Pranala:
 
-- [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225){:target="_blank"}
-- [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
-- [Facebook](https://fb.me/a1fansub){:target="_blank"}
-- [GitHub](https://github.com/A-1Fansub/){:target="_blank"}
-- [Index](https://proyek.a-1ddl.workers.dev/0:/){:target="_blank"}
-- [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-fansub-manga-division){:target="_blank"}
-- [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub){:target="_blank"}
-- [Trakteer](https://trakteer.id/a-1fansub){:target="_blank"}
-- [Telegram](https://a1fansub.t.me){:target="_blank"}
+- [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225)
+- [Discord](https://discord.gg/8QeuePwYgV)
+- [Facebook](https://fb.me/a1fansub)
+- [GitHub](https://github.com/A-1Fansub/)
+- [Index](https://proyek.a-1ddl.workers.dev/0:/)
+- [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-fansub-manga-division)
+- [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub)
+- [Trakteer](https://trakteer.id/a-1fansub)
+- [Telegram](https://a1fansub.t.me)
