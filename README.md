@@ -1,5 +1,3 @@
-Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021**.
-
 ### A-1 Fansub?
 
 Fansub apa adanya yang berusaha menyediakan rilisan semaksimal mungkin. Walau berimbas pada kecepatan rilis, namum kami harap hasil akhirnya "tidak mengecewakan".
