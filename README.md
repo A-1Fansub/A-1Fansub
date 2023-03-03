@@ -1,8 +1,3 @@
----
-layout: page
-title: Tentang
----
-
 Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021**.
 
 ### A-1 Fansub?
